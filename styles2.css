@@ -80,20 +80,134 @@ font-size: 24px;
 }
 /* third section */
 .section-title{
-
+text-align: center;
 font-weight: bold;
 font-size: 38px;
 
 }
-.item-title{
+.about-secondary-bg{
+border-radius: 10px;
+padding: 130px 150px;
+margin-top: 150px;
+text-align: center;
 
+
+}
+/* shared style */
+.text-aline{
+
+    text-align: left;
+}
+main{
+margin: 0 auto;
+    max-width: 1140px;
+}
+.item-title{
+text-align: center;
     font-weight: bold;
 font-size: 80px;
 color: #4E47FF;
 }
 
 .item-description{
-
+text-align: center;
 font-weight: bold;
     opacity: 50%;
 }
+.about-items{
+display: flex;
+gap: 30px;
+align-content: center;
+}
+/* skills containers */
+
+.skills-container{
+display: flex;
+max width: 200px;
+height: 300px;
+gap: 20px;
+ 
+
+
+}
+.skill-description{
+padding: 30px;
+align-items: left;
+   box-shadow: 0px 6px 50px 0p black;
+    border-radius: 5px;
+}
+.skill{
+
+    font-size: 50px;
+    font-weight: 100%;
+}
+
+.down-section{
+
+    text-align: center;
+
+
+}
+
+.sub-title-2{
+
+    font-size: 24px;
+    
+    color: #252432;
+    font-weight: bold;
+    opacity: 50%;
+}
+/* upr ftr */
+.secondary-bg{
+    background-color:#b1afaf ;
+margin: 0 auto;
+margin-top: 30px;
+    max-width: 1000px;
+display: flex;
+gap: 15%;
+
+}
+.section-upr-ftr{
+max-width: 500px;
+    font-size: 97px;
+    text-align: justify;
+    padding: 50px;
+    font-weight: bold;
+}
+
+.btn-2{
+
+    width: 170px;
+   text-align: center;
+}
+.section-upr-ftr-2{
+
+    font-size: 20px;
+}
+.logo-2{
+
+    font-weight: bold;
+    color: #4E47FF;
+    font-size: 100px;
+}
+
+.list-items {
+    align-items: center;
+list-style: none;
+color: black;
+display: flex;
+gap: 100px;
+
+}
+.section-footer{
+align-items: center;
+text-align: center;
+
+
+
+}
+
+
+
+
+
