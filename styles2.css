@@ -78,4 +78,22 @@ font-size: 24px;
     font-weight: bold;
     opacity: 50%;
 }
+/* third section */
+.section-title{
 
+font-weight: bold;
+font-size: 38px;
+
+}
+.item-title{
+
+    font-weight: bold;
+font-size: 80px;
+color: #4E47FF;
+}
+
+.item-description{
+
+font-weight: bold;
+    opacity: 50%;
+}
